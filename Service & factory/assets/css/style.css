@@ -1,0 +1,382 @@
+/* Our CSS Code Goes Here*/
+/***********header starts here***********/
+
+header {
+    background: #A53010;
+}
+.btn {
+    background: #A53010;
+    border: 1px solid black;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+}
+/*clearfix*/
+
+.clearfix {
+    clear: both;
+    height: 0;
+    font-size: 1px;
+    line-height: 0px;
+    display: block;
+}
+
+input,
+input::-webkit-input-placeholder{
+    font-size: 20px;
+    line-height: 2;
+}
+
+input,input::-moz-placeholder {
+font-size: 20px;
+    line-height: 2;
+	
+} /* Firefox 19+ */
+:-moz-placeholder {}  /* Firefox 18- */
+input,input::-ms-input-placeholder {
+	
+	font-size: 20px;
+    line-height: 2;
+}
+/*clearfix*/
+/************header ends here***********/
+/************container starts here***********/
+
+.container {
+    width: 100%;
+    background-image: url("../images/cover.jpg");
+    background-size: cover;
+}
+.city {
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    border: 1px solid brown;
+    text-align-last: center;
+}
+.dishsearch {
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid brown;
+    color: black;
+}
+.btnsearch {
+    background: #A53010;
+    border: 1px solid brown;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    padding: 6px;
+    border-radius: 5px;
+}
+/****************container ends here**************/
+/*************footer starts here************/
+
+footer {
+    background: #A53010;
+}
+.desktop ul li,
+.desktop ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+/****************footer ends here**************/
+/****************media query for desktop starts here**************/
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px)  {
+    .btn {
+        margin: 0px 4px;
+        padding: 7px 7px;
+    }
+    .loginContainer {
+        margin: 10px 10px;
+        float: right;
+        padding: 5px;
+    }
+    .container {
+        min-height: 563px;
+    }
+    .selectCity {
+        width: 60%;
+        margin: 0 auto;
+        padding-top: 250px;
+    }
+    .city {
+        float: left;
+    }
+    .dishsearch {
+        width: 60%;
+        margin: 0 5px;
+        float: left;
+    }
+    .btnsearch {
+        width: 15%;
+        margin-left: 5px;
+        float: left;
+    }
+    .desktop {
+        padding: 20px 0px;
+    }
+    .desktop ul li,
+    .desktop ul li a {
+        display: inline-block;
+    }
+    .desktop ul li:first-child {
+        margin-left: 30px;
+    }
+}
+/****************media query for desktop ends here**************/
+/****************media query for mobile starts here**************/
+@media only screen and (min-device-width: 320px) and (max-device-width: 500px)  {
+    .btn {
+        margin: 0px 4px;
+        padding: 7px 7px;
+    }
+    .loginContainer {
+        margin: 10px 10px;
+        float: right;
+        padding: 5px;
+    }
+    .container {
+        min-height: 370px;
+    }
+    .selectCity {
+        width: 80%;
+        margin: 0 auto;
+        padding-top: 100px;
+    }
+    .city {
+        width: 100%;
+        padding: 15px 0px;
+    }
+    .city option {
+        text-align: center;
+    }
+    .dishsearch {
+        width: 100%;
+        margin: 10px 0px;
+        padding: 15px 0px;
+        text-align: center;
+    }
+    .btnsearch {
+        width: 100%;
+        padding: 15px 0px;
+    }
+    .desktop {
+        padding-top: 5px;
+    }
+    .desktop ul li,
+    .desktop ul li a {
+        width: 80%;
+        display: block;
+        margin: 10px auto;
+        text-align: center;
+    }
+    .desktop ul:last-child {
+        padding-bottom: 15px;
+    } 
+	.desktop ul li:nth-child(1),.desktop ul li:nth-child(2) {
+		display:none;
+	}
+}
+/****************media query for mobile ends here**************/
+/****************media query for tablet starts here**************/
+@media only screen and (min-device-width: 501px) and (max-device-width: 1200px)  {
+    .btn {
+        margin: 0px 4px;
+        padding: 7px 7px;
+    }
+    .loginContainer {
+        margin: 10px 10px;
+        float: right;
+        padding: 5px;
+    }
+    .container {
+        min-height: 615px;
+    }
+    .selectCity {
+        width: 80%;
+        margin: 0 auto;
+        padding-top: 180px;
+    }
+    .city {
+        width: 100%;
+        padding: 33px 0px;
+    }
+    .city option {
+        text-align: center;
+    }
+    .dishsearch {
+        width: 100%;
+        margin-top: 20px;
+        padding: 33px 0px;
+        text-align: center;
+    }
+    .btnsearch {
+        width: 100%;
+        padding: 33px 0px;
+        margin-top: 20px;
+    }
+    .desktop {
+        padding-top: 5px;
+    }
+    .desktop ul li,
+    .desktop ul li a {
+        width: 80%;
+        display: block;
+        margin: 10px auto;
+        text-align: center;
+    }
+    .desktop ul:last-child {
+        padding-bottom: 15px;
+    }
+}
+/****************media query for tablet here**************/
+
+
+
+
+
+/*** Eniya     *****/
+
+
+.midContainer {
+    width: 100%;
+}
+.detailsOne {
+    background-color: #fff;
+    background-color: grey
+}
+.detailsTwo {
+    background-color: #fff;
+    background-color: grey
+}
+.detailsThree {
+    background-color: #fff;
+    background-color: grey
+}
+.contactInfo {
+    width: 90%;
+    margin: 10px auto 0px auto;
+    background-color: #fff;
+}
+.addressBar {
+    float: left;
+    width: 40%;
+}
+.reviews {
+    float: right;
+}
+.clearfix {
+    clear: both;
+}
+.contacts {
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px 0px;
+}
+.details {
+    width: 100%;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    padding: 10px 0px;
+}
+.info {
+    width: 40%;
+}
+.call {
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.locDetails {
+    width: 33%;
+    float: left;
+}
+.order {
+    width: 33%;
+    float: left;
+}
+a {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+.click a {
+    color: green;
+}
+header {
+    background: #A53010;
+}
+.btn {
+    background: #A53010;
+    border: 1px solid black;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+}
+.loginContainer {
+    float: right;
+}
+.loginContainer .btn {
+    float: left;
+}
+/*clearfix*/
+
+.clearfix {
+    clear: both;
+    height: 0;
+    font-size: 1px;
+    line-height: 0px;
+    display: block;
+}
+.loginContainer ul li,
+.loginContainer ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+footer {
+    background: #A53010;
+}
+.desktop ul li,
+.desktop ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+/****************media query for desktop starts here**************/
+
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) {
+    .detailsOne {
+        width: 32%;
+        float: left;
+    }
+    .detailsTwo {
+        width: 32%;
+        float: left;
+        margin-left: 2%;
+    }
+    .detailsThree {
+        width: 32%;
+        float: left;
+        margin-left: 2%;
+    }
+}
+/****************media query for desktop ends here**************/
+/****************media query for mobile starts here**************/
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 500px) {
+    .detailsThree {
+        display: none;
+    }
+}
+/****************media query for mobile ends here**************/
+/****************media query for tablet starts here**************/
+
+@media only screen and (min-device-width: 501px) and (max-device-width: 1200px) {
+    .detailsThree {
+        display: none;
+    }
+}
+/****************media query for tablet here**************/

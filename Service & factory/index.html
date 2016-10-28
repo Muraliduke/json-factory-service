@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="angularMFRP">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Restaurant Search Portal</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- include library script files here -->
+    <script src="assets/library/jquery.min.js"></script>
+    <script src="assets/library/angular.min.js"></script>
+    <script src="assets/library/angular-route.min.js"></script>
+
+
+    <!-- include your custom app files here -->
+    <script src="app/app.js"></script>
+	<script src="app/controllers/home.js"></script>
+	<script src="app/controllers/restaurant.js"></script>
+    <script src="app/factory/dataService.js"></script>
+    <script src="app/services/Service.js"></script>
+    <script src="app/providers/provider.js"></script>
+
+</head>
+
+<body >
+
+    <div class="mainContainer">
+
+        <!-- header starts here -->
+        <header>
+
+
+
+            <div class='loginContainer'>
+                <button class="btn btnlogin">Login</button>
+                <button class="btn">Register</button>
+            </div>
+
+
+            <div class="clearfix">
+            </div>
+        </header>
+
+
+        <!-- header ends here -->
+
+
+		<div  ng-view autoscroll="true">
+		
+        </div>
+
+        <!-- footer starts here -->
+        <footer>
+            <nav class="desktop">
+                <ul>
+                    <li class="btn"><a href='javascript:void(0)'>Privacy</a>
+                    </li>
+                    <li class="btn"><a href='javascript:void(0)'>Terms</a>
+                    </li>
+                    <li class="btn"><a href='javascript:void(0)'>About</a>
+                    </li>
+                    <li class="btn"><a href='javascript:void(0)'>Blog</a>
+                    </li>
+                    <li class="btn"><a href='javascript:void(0)'>Contact</a>
+                    </li>
+                </ul>
+            </nav>
+
+        </footer>
+        <!-- footer ends here -->
+
+    </div>
+
+
+</body>
+
+</html>

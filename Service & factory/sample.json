@@ -1,0 +1,97 @@
+{
+               "Chennai":[
+                              {
+                                             "name":"Paradise",
+                                             "image":"assets/images/Chennai/hotel1.jpg",
+                                             "address":"392, Anjali Devi Towers Kandanchavadi, OMR, Perungudi, Chennai ",
+                                             "cuisine":"North Indian, Biryani ",
+                                             "Price":"Rs.500 for two people (approx.) ",
+                                             "Hours":"11 AM to 11 PM(mon-sun)",
+											 "Contact":"044 49588211"
+                              },
+                              {
+                                             "name":"Zaitoon",
+                                             "image":"assets/images/Chennai/hotel2.jpg",
+                                             "address":"362, Velachery Main Road, Velachery, Chennai ",
+                                             "cuisine":"Arabian, Biryani, Mughlai, Chinese, North Indian ",
+                                             "Price":"Rs.900 for two people (approx.) ",
+                                             "Hours":"11:30 AM to 11:30 PM(mon-sun)",
+											 "Contact":"044 30853711"
+                              },
+                              {
+                                             "name":"Sangeetha Veg Restaurant",
+                                             "image":"assets/images/Chennai/hotel3.jpg",
+                                             "address":"7, Gandhi Nagar, 1st Main Road, Adyar, Chennai ",
+                                             "cuisine":"North Indian, South Indian, Chinese ",
+                                             "Price":"Rs.450 for two people (approx.) ",
+                                             "Hours":" 7 AM to 10:30 PM(mon-sun)",
+											 "Contact":"044 33011552"
+                              },
+                              {
+                                             "name":"Wangs Kitchen",
+                                             "image":"assets/images/Chennai/hotel4.jpg",
+                                             "address":"151, G 7, Gee Gee Emerald, Village Road, Nungambakkam, Chennai ",
+                                             "cuisine":"Chinese ",
+                                             "Price":"Rs.750 for two people (approx.) ",
+                                             "Hours":" 11:30 AM to 10:30 PM(mon-sun)",
+											 "Contact":"044 33011721"
+                              },
+                              {
+                                             "name":"Ratna Cafe",
+                                             "image":"assets/images/Chennai/hotel5.jpg",
+                                             "address":"255, Triplicane High Road, Triplicane, Chennai ",
+                                             "cuisine":"South Indian ",
+                                             "Price":"Rs.300 for two people (approx.) ",
+                                             "Hours":" 7:30 AM to 10:30 PM(mon-sun)",
+											 "Contact":"044 28487181"
+                              },
+                              {
+                                             "name":"Pind",
+                                             "image":"assets/images/Chennai/hotel6.jpg",
+                                             "address":"2, Sarathy Nagar, 1st Main Road, Velachery, Chennai ",
+                                             "cuisine":"North Indian, Chinese ",
+                                             "Price":"Rs.900 for two people (approx.) ",
+                                             "Hours":"11:30 AM to 11:30 PM (mon-sun)",
+											 "Contact":"044 30853631"
+                              },
+                              {
+                                             "name":"Aasife & Brothers Biriyani Centre",
+                                             "image":"assets/images/Chennai/hotel7.jpg",
+                                             "address":"5/15, Mount Poonamalle Road, Butt Road, St. Thomas Mount, Chennai ",
+                                             "cuisine":"North Indian, Chinese, Seafood, Biryani ",
+                                             "Price":"Rs.600 for two people (approx.) ",
+                                             "Hours":"11 AM to 11 PM(mon-sun)",
+											 "Contact":"044 22320504"
+                              },
+                              {
+                                             "name":"Mathsya",
+                                             "image":"assets/images/Chennai/hotel8.jpg",
+                                             "address":"1, Halls Road, Egmore, Chennai ",
+                                             "cuisine":"South Indian, North Indian ",
+                                             "Price":"Rs.450 for two people (approx.) ",
+                                             "Hours":"7 AM to 1:30 AM(mon-sun)",
+											 "Contact":"044 30853795"
+                              },
+                              {
+                                             "name":"Coal Barbecues",
+                                             "image":"assets/images/Chennai/hotel9.jpg",
+                                             "address":"17 & 18, Rajalakshmi Nagar, 7th Cross Street, 100 Feet Bypass Road, Velachery, Chennai ",
+                                             "cuisine":"North Indian, Mediterranean, Asian, Arabian ",
+                                             "Price":"Rs.1,400 for two people (approx.) ",
+                                             "Hours":"12:00PM-11:00PM(mon-sun)",
+											 "Contact":"044 33011572"
+                              },
+                              {
+                                             "name":"Buhari",
+                                             "image":"assets/images/Chennai/hotel10.jpg",
+                                             "address":"17, Taramani Link Road, Opposite CSI Church, Velachery, Chennai ",
+                                             "cuisine":"North Indian, Chinese, Biryani",
+                                             "Price":"Rs.850 for two people (approx.) ",
+                                             "Hours":"11 AM to 11 PM(mon-sun)",
+											 "Contact":"044 65335555"
+                              }
+								
+                              
+               ]
+               
+}

@@ -1,0 +1,82 @@
+{
+     "Chennai":{
+          "Hotel1":[
+          {
+               "name":"Idli kadai",
+               "image":"",
+               "address":"jhdgasbdjasbdhj",
+               "cuisine":"Idli",
+               "Price":"Rs.50",
+               "Hours":"09:00AM-10:00PM(mon-sun)"
+          }
+          ],
+          "Hotel2":[
+          {
+               "name":"chow kadai",
+               "image":"",
+               "address":"jhdgasbdjasbdhj",
+               "cuisine":"chow",
+               "Price":"Rs.40",
+               "Hours":"08:00AM-10:00PM(mon-sun)"
+          }
+
+          ]
+
+     },
+
+
+     "Kolkata":{
+          "Hotel1":[
+          {
+               "name":"Fish kadai",
+               "image":"",
+               "address":"jhdgasbdjasbdhj",
+               "cuisine":"Fish",
+               "Price":"Rs.150",
+               "Hours":"09:00AM-10:00PM(mon-sun)"
+          }
+          ],
+          "Hotel2":[
+          {
+               "name":"chicken kadai",
+               "image":"",
+               "address":"jhdgasbdjasbdhj",
+               "cuisine":"chicken",
+               "Price":"Rs.240",
+               "Hours":"08:00AM-10:00PM(mon-sun)"
+          }
+
+          ]
+
+     },
+
+
+
+          "Delhi":{
+          "Hotel1":[
+          {
+               "name":"Roti kadai",
+               "image":"",
+               "address":"jhdgasbdjasbdhj",
+               "cuisine":"Roti",
+               "Price":"Rs.15",
+               "Hours":"09:00AM-10:00PM(mon-sun)"
+          }
+          ],
+          "Hotel2":[
+          {
+               "name":"gravy kadai",
+               "image":"",
+               "address":"jhdgasbdjasbdhj",
+               "cuisine":"gravy",
+               "Price":"Rs.120",
+               "Hours":"08:00AM-10:00PM(mon-sun)"
+          }
+
+          ]
+
+     }
+
+
+
+}

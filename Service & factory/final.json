@@ -1,0 +1,79 @@
+{
+               "Chennai":[                             
+                              {
+                                             "name":"Idli kadai",
+                                             "image":"",
+                                             "address":"jhdgasbdjasbdhj",
+                                             "cuisine":"Idli",
+                                             "Price":"Rs.50",
+                                             "Hours":"09:00AM-10:00PM(mon-sun)"
+                              }
+                              ,
+                              
+                              {
+                                             "name":"chow kadai",
+                                             "image":"",
+                                             "address":"jhdgasbdjasbdhj",
+                                             "cuisine":"chow",
+                                             "Price":"Rs.40",
+                                             "Hours":"08:00AM-10:00PM(mon-sun)"
+                              }
+ 
+                             
+ 
+               ],
+ 
+ 
+               "Kolkata":[
+                              {
+                                             "name":"Fish kadai",
+                                             "image":"",
+                                             "address":"jhdgasbdjasbdhj",
+                                             "cuisine":"Fish",
+                                             "Price":"Rs.150",
+                                             "Hours":"09:00AM-10:00PM(mon-sun)"
+                              }
+                              ,
+                              
+                              {
+                                             "name":"chicken kadai",
+                                             "image":"",
+                                             "address":"jhdgasbdjasbdhj",
+                                             "cuisine":"chicken",
+                                             "Price":"Rs.240",
+                                             "Hours":"08:00AM-10:00PM(mon-sun)"
+                              }
+ 
+                             
+ 
+               ],
+ 
+ 
+ 
+                              "Delhi":[
+                              {
+                                             "name":"Roti kadai",
+                                             "image":"",
+                                             "address":"jhdgasbdjasbdhj",
+                                             "cuisine":"Roti",
+                                             "Price":"Rs.15",
+                                             "Hours":"09:00AM-10:00PM(mon-sun)"
+                              }
+                              ,
+                              
+                              {
+                                             "name":"gravy kadai",
+                                             "image":"",
+                                             "address":"jhdgasbdjasbdhj",
+                                             "cuisine":"gravy",
+                                             "Price":"Rs.120",
+                                             "Hours":"08:00AM-10:00PM(mon-sun)"
+                              }
+ 
+                             
+ 
+               ]
+ 
+ 
+ 
+}

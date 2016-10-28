@@ -1,0 +1,48 @@
+
+
+        <!-- container starts here -->
+
+        <div class="container">
+
+            <div class="selectCity" >
+			
+			
+			<input list="cities" name="cities"ng-model="cities" placeholder="select city" class="city">
+							<datalist id="cities" >
+							<option ng-repeat="(key, data) in aa">{{key}}</option>
+			</datalist>
+                
+
+
+   <input type="text" ng-model="searches" placeholder="search for restaurants,dish" class="dishsearch">
+
+
+                <button class="btnsearch" ng-click="next()">Search</button>
+
+            </div>
+				
+				<div ng-repeat="(key, data) in a">
+					
+				</div>
+				
+				
+				
+				<div ng-repeat="b in a">
+				
+					{{b.name}}
+				
+				</div>
+				
+				
+				
+				
+
+        </div>
+
+<div ng-repeat="bbb in zz">
+				
+					{{bbb.Price}}{{bbb.cuisine}}
+				
+				</div>
+
+        <!-- container ends here -->
